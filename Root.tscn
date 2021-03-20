@@ -1,8 +1,8 @@
 [gd_scene load_steps=4 format=2]
 
-[ext_resource path="res://GodotSimpleTooltip/icon.png" type="Texture" id=1]
-[ext_resource path="res://GodotSimpleTooltip/Button.gd" type="Script" id=2]
-[ext_resource path="res://GodotSimpleTooltip/Tooltip.tscn" type="PackedScene" id=3]
+[ext_resource path="res://icon.png" type="Texture" id=1]
+[ext_resource path="res://Button.gd" type="Script" id=2]
+[ext_resource path="res://Tooltip.tscn" type="PackedScene" id=3]
 
 [node name="ButtonControl" type="Control"]
 anchor_right = 1.0
